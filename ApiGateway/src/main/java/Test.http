@@ -1,0 +1,7 @@
+POST http://localhost:8085/inscriptions/1/3
+###
+GET http://localhost:8085/cours/1
+###
+GET http://localhost:8085/etudiants/1
+###
+GET http://localhost:8085/cours/cours/1

@@ -1,0 +1,132 @@
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Data Mining",
+  "nbr_heures": 48,
+  "module": "Big Data Analytics",
+  "filliere": "IDSI",
+  "specialite": true
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Machine Learning",
+  "nbr_heures": 48,
+  "module": "Big Data Analytics",
+  "filliere": "IDSI",
+  "specialite": true
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Conteneurisation",
+  "nbr_heures": 48,
+  "module": "Env Digital Smact",
+  "filliere": "IDSI",
+  "specialite": true
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Spring Cloud",
+  "nbr_heures": 48,
+  "module": "Env Digital Smact",
+  "filliere": "IDSI",
+  "specialite": true
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Spring Cloud",
+  "nbr_heures": 48,
+  "module": "Env Digital Smact",
+  "filliere": "IDSI",
+  "specialite": true
+}
+
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Communication Unifiés",
+  "nbr_heures": 24,
+  "module": "Reseaux et Application Avancés",
+  "filliere": "TI",
+  "specialite": true
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Reseaux sans fils",
+  "nbr_heures": 24,
+  "module": "Reseaux et Application Avancés",
+  "filliere": "TI",
+  "specialite": true
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Reseaux Haut debits",
+  "nbr_heures": 48,
+  "module": "Reseaux et Application Avancés",
+  "filliere": "TI",
+  "specialite": true
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Soft Skills",
+  "nbr_heures": 48,
+  "module": "Langues et Communications",
+  "filliere": "TI",
+  "specialite": false
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Anglais",
+  "nbr_heures": 48,
+  "module": "Langues et Communications",
+  "filliere": "TI",
+  "specialite": false
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Soft Skills",
+  "nbr_heures": 48,
+  "module": "Langues et Communications",
+  "filliere": "IDSI",
+  "specialite": false
+}
+###
+POST http://localhost:8082/cours
+Content-Type: application/json
+
+{
+  "nomCours": "Anglais",
+  "nbr_heures": 48,
+  "module": "Langues et Communications",
+  "filliere": "IDSI",
+  "specialite": false
+}

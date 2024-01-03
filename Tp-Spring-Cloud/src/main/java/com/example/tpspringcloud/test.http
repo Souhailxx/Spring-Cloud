@@ -1,0 +1,70 @@
+###
+POST http://localhost:8081/etudiants
+Content-Type: application/json
+
+{
+  "firstName": "Souhail",
+  "lastName": "Laamoumri",
+  "filliere": "IDSI"
+}
+###
+POST http://localhost:8081/etudiants
+Content-Type: application/json
+
+{
+  "firstName": "Otman",
+  "lastName": "Malki",
+  "filliere": "IDSI"
+
+}
+###
+POST http://localhost:8081/etudiants
+Content-Type: application/json
+
+{
+  "firstName": "Saif",
+  "lastName": "Bettaoui",
+  "filliere": "IDSI"
+
+}
+###
+POST http://localhost:8081/etudiants
+Content-Type: application/json
+
+{
+  "firstName": "Anas",
+  "lastName": "Fajoui",
+  "filliere": "TI"
+
+}
+###
+POST http://localhost:8081/etudiants
+Content-Type: application/json
+
+{
+  "firstName": "Amine",
+  "lastName": "Menaoui",
+  "filliere": "TI"
+}
+###
+POST http://localhost:8081/etudiants
+Content-Type: application/json
+
+{
+  "firstName": "Limame",
+  "lastName": "Malanine",
+  "filliere": "TI"
+}
+###
+GET http://localhost:8081/etudiants
+###
+POST http://localhost:8084/etudiants
+Content-Type: application/json
+
+{
+  "firstName": "C",
+  "lastName": "D",
+  "filliere": "TI"
+}
+###
+GET http://localhost:8083/message
